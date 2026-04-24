@@ -13,9 +13,9 @@ function isValidEdge(edge) {
 app.post("/bfhl", (req, res) => {
   const { data } = req.body;
 
-  const user_id = "yourname_01012000";
-  const email_id = "your@email.com";
-  const college_roll_number = "yourroll";
+  const user_id = "ratnesh_08092005";
+  const email_id = "ratneshgudipudi008@email.com";
+  const college_roll_number = "AP23110011134";
 
   let valid = [];
   let invalid = [];
